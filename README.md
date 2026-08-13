@@ -85,8 +85,12 @@ demonstration purposes only.
 
 ## Tools & techniques
 
-`Power BI` · `DAX` · `Conditional Formatting` · `Data Visualization` ·
-`Color Accessibility (OKLCH / CVD simulation)` · `Dashboard Navigation`
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-2A78D6?style=for-the-badge)
+![Conditional Formatting](https://img.shields.io/badge/Conditional%20Formatting-9B99F3?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F07F77?style=for-the-badge)
+![Color Accessibility](https://img.shields.io/badge/Color%20Accessibility%20(OKLCH%20%2F%20CVD)-16BBBC?style=for-the-badge)
+![Dashboard Navigation](https://img.shields.io/badge/Dashboard%20Navigation-61B55C?style=for-the-badge)
 
 ## Repository contents
 
