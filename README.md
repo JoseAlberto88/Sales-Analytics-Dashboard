@@ -41,12 +41,31 @@ demonstration purposes only.
 
 ## Key insights
 
-_Add 3-5 bullets here on what the data actually shows once you've spent time
-in it — e.g. which category/occupation segment drives the most revenue,
-whether return rate varies meaningfully by category, or how customer growth
-correlates with revenue growth. I only worked from the dashboard's KPI
-cards and charts, not the underlying data, so I've left this section for
-you to fill in with real analysis rather than guess at patterns I can't see._
+## Key insights
+
+- **Bikes drive almost all revenue despite fewer orders.** Bikes generated
+  $23.6M of the $24.9M total (≈95%) from 13,929 orders, while Accessories
+  produced more orders (16,983) but only $907K in revenue. That implies an
+  average order value of roughly $1,700 for Bikes versus ~$53 for
+  Accessories and Clothing,  a >30x gap, so category mix, not order
+  volume, is the real revenue lever here.
+- **Professional and Skilled Manual customers dominate order volume.**
+  Together they account for 55% of all orders (31% + 24%), with
+  Management, Clerical, and Manual splitting the remaining 44%. Any
+  retention or marketing push aimed at growing order volume should
+  prioritize these two segments.
+- **Revenue and customer growth both inflect around mid-2021.** The
+  customer-count trend jumps sharply starting around Jul 2021, and the
+  revenue trend accelerates in the same window — worth digging into what
+  changed operationally around that point (new channel, campaign,
+  seasonality) since it's the clearest structural shift in either series.
+- **Returns are a minor drag overall.** A 2.17% return rate across 84K
+  units sold is low in absolute terms, but it's worth checking whether
+  returns concentrate in a specific category (e.g. Bikes, given their
+  outsized share of revenue) rather than assuming it's evenly spread.
+- **Short-term momentum is positive.** Current-month revenue ($1.83M) is
+  running 3.31% ahead of the prior month ($1.77M), consistent with the
+  longer upward trend rather than a one-off spike.
 
 ## Report pages
 
