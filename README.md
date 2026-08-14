@@ -73,15 +73,30 @@ demonstration purposes only.
   Return Rate, and Top Subcategory KPI cards; revenue-vs-goal callout with
   trend sparkline; Total Revenue by Category; a product-level performance
   table; Total Revenue trend with a forecast band.
+
+  ![Executive Dashboard](screenshots/executive-dashboard.png)
+
 - **Customer Dashboard**. Total Customers, Average Revenue per Customer,
   and Top Customer KPI cards; a customer-growth trend; a Total Orders donut
   by Occupation.
+
+  ![Customer Dashboard](screenshots/customer-dashboard.png)
+
 - **Product Dashboard**. Total Revenue trend; a Total Revenue-vs-goal gauge
   (current vs. previous month, conditionally colored); Total Orders by
   Category; a Total Revenue area chart; Product and Category filters.
+
+  ![Product Dashboard](screenshots/product-dashboard.png)
+
 - **Maps**. Total Orders by Country on a map, with a Continent slicer.
+
+  ![Maps](screenshots/maps.png)
+
 - **Navigation Buttons**. Landing page linking to the four dashboards
   above.
+
+  ![Navigation Buttons](screenshots/navigation-buttons.png)
+
 
 ## Tools & techniques
 
